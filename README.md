@@ -57,4 +57,4 @@ MATLAB is widely used in engineering, science, and applied research, making thes
 
 ---
 
-[![MATLAB Skills for the AI Era Certificate](https://img.shields.io/badge/Certificate-Coursera-blue)](https://www.coursera.org/account/accomplishments/specialization/certificate/INSERT-YOUR-CERTIFICATE-ID-HERE)
+[![MATLAB Skills for the AI Era Certificate](https://img.shields.io/badge/Certificate-Coursera-blue)](https://www.coursera.org/account/accomplishments/specialization/certificate/S5BBRF48V30X)
